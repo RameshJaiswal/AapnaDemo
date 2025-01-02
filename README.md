@@ -1,2 +1,2 @@
 # AapnaDemo
-This is my personal Repository.
+This is my personal Git Repository.
